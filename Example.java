@@ -4,7 +4,7 @@ public class Example {
         System.out.println("hey");
 
         int num = 10;
-
+// commit karamu
         for (int i = 0; i < num; i++) {
             System.out.println(i);
         }
