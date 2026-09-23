@@ -9,8 +9,5 @@ public class Example {
             System.out.println(i);
         }
 
-        System.out.println("commit 01");
-
-        System.out.println("commit 01");
     }
 }
